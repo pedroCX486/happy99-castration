@@ -1,11 +1,11 @@
 # Happy99 Castration Project
-A project that aims to castrate the original Happy99 virus and turn it into just a beautiful fireworks app.
+A project that aims to castrate the original Happy99 virus and turn it into just a beautiful retro fireworks app.
 
 ## Original Virus Demo
 Danooct1 made an video in 2011 demoing the original virus, you can find it here: https://www.youtube.com/watch?v=Bwpt0EyOSM0
 
 ## Objectives
-Simply castrate the virus capabilities from the source code and recompile it into a fireworks app. Later on maybe port it SDL2 or something else.
+Simply castrate the virus capabilities from the source code and recompile it into a retro fireworks application. Later on maybe port it to SDL2 or something else.
 
 ## Why?
 Why not? Knowledge is good.
