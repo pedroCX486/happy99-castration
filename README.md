@@ -14,4 +14,4 @@ Why not? Knowledge is good.
 The original readme.rtf is long lost, in the `original` folder you can find an PDF version of it and also the asm file containing the entire virus' (unaltered) source code. If you want the original unaltered compiled binary, google it (i know it's not exactly dangerous but i'm not distributing the executable of something classified as a virus).
 
 ## Contributing
-PRs are open. Know wasm? Wanna help? Have fun? Go wild at it.
+PRs are open. Know asm? Wanna help? Have fun? Go wild at it.
