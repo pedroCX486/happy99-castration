@@ -1,5 +1,4 @@
 class Particle {
-  
   PVector pos, v, a;
   
   Particle(float x, float y) {
