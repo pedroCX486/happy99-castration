@@ -5,7 +5,7 @@
 // Modified to simulate as close as possible the fireworks on the Happy99
 // vintage virus for old Windows versions.
 // More info: https://www.youtube.com/watch?v=Bwpt0EyOSM0 (danooct1 YT Channel)
-
+// Changes here keep the same license as the original code (MIT).
 
 // Global variables
 ArrayList<Firework> fireworks = new ArrayList<Firework>();
